@@ -15,14 +15,12 @@
             ]
         }
     },
-    "require": {
-        "php": "^5.5"
-      },
     "authors": [
         {
             "name": "AimsInfosoft"
         }
     ],
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "require": {}
 }
