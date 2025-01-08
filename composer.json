@@ -1,5 +1,5 @@
 {
-    "name": "laravel/geo-restriction",
+    "name": "aimsinfosoft/geo-restriction",
     "description": "restrict routes according to geographic locations",
     "type": "package",
     "license": "MIT",
