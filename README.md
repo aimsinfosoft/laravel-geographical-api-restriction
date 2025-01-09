@@ -52,7 +52,7 @@ Change it according to your preference:
 
 * Modify error_message to set the message displayed to users in restricted areas.
 
-
+## Usage
 ### Routes Configuration
 
 After making the changes, you have to apply restrictions to your api routes, add the ```geo.restriction``` middleware in ```routes/api.php``` file
